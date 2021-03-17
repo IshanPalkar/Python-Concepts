@@ -1,2 +1,2 @@
 # Python-Concepts
-Learn Python in 8 days!!!
+Learn Python in 6 days!!!
